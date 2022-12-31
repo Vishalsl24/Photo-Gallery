@@ -1,0 +1,29 @@
+h2{
+    text-align: center;
+}
+
+main{
+    margin-left: 100px;
+}
+
+.box{
+    display: block;
+    float: left;
+    width: 20%;
+    padding: 10px;
+    padding-left: 12px;
+}
+
+img{
+    width: 85%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    border-radius: 5px;
+    
+
+}
+
+.text{
+    margin-left: 100px;
+    color: gray;
+}
